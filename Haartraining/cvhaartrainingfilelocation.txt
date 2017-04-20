@@ -1,0 +1,1 @@
+C:\OpenCV 2.4.13\sources\apps\haartraining\cvhaartraining.cpp

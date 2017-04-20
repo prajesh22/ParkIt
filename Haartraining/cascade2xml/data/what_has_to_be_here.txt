@@ -1,0 +1,2 @@
+in this catalogue You should paste catlaogues created by haartraining tool.Those catalogues are placed
+..\temp\data\cascade and should be named from "0" to "n" - where the "n" is the number of stages.

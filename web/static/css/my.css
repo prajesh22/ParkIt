@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+    background-color: #bce8f1;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+form {
+    padding:20px;
+}
+
+form label {
+    float: left;
+}

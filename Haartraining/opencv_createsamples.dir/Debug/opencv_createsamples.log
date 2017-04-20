@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/OpenCV 2.4.13/sources/apps/haartraining/CMakeLists.txt
+  CMake does not need to re-run because C:\OpenCV 2.4.13\build\apps\haartraining\CMakeFiles\generate.stamp is up-to-date.
+  opencv_createsamples.vcxproj -> C:\OpenCV 2.4.13\build\bin\Debug\opencv_createsamplesd.exe
